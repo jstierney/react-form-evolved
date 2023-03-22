@@ -1,0 +1,11 @@
+{
+  "name": "react-form-evolved",
+  "version": "0.0.1",
+  "description": "A simple and flexible way of managing form state in React",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
