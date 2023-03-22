@@ -1,6 +1,6 @@
+import isEmpty from 'lodash/isEmpty'
 import __ from './lang'
 import { labelize, Options, ValueMap } from '.'
-import isEmpty from 'lodash/isEmpty'
 
 export const isValidEmail = (input: string): boolean => {
   if (! input) return false
